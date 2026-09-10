@@ -11,6 +11,7 @@ A simple and customizable password generator built with JavaScript, HTML, and CS
 - Clean and responsive user interface
 
 ## Preview
+Live Link: https://node-lock.netlify.app/
 ![Password Generator Screenshot](/images/overview.jpg)
 
 ## Getting Started
